@@ -1,4 +1,4 @@
-token=NDc0MDA5MzEyNDQ5MTM0NTky.Duf2sQ.HOm-kPkmjoKKnx9WJP8jbt9fXME
+token=NDc2MTE1MzgyNzcyNjk1MDUx.Duf_HA.DS-ZF_5uduaiMPTxtr6Y_Si5yaA
 owner=392820611795255318
 prefix= T4
 game= T4help,T4play
